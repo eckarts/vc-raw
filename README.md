@@ -1,2 +1,3 @@
 # vc-raw
-Verizon Community database fork
+Fork of Verizon Community Database
+16-12-01
